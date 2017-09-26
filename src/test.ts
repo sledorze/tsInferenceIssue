@@ -1,4 +1,4 @@
-import * as t from 'io-ts'
+import * as t from './emptymodule'
 
 type ZA = { tag: 'a', pa: ALL }
 type ZB = { tag: 'b', pb: ALL }
